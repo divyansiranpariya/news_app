@@ -11,7 +11,7 @@ This Application contains a Flutter-based TODO application that allows users to 
 - Theme toggling between light and dark modes.
 - Tasks are saved in SQLite for long-term storage.
 - Theme preference and first-time launch status are saved using SharedPreferences.
-- - Handles saving and retrieving preferences such as the app theme and first-time launch status using SharedPreferences.
+- Handles saving and retrieving preferences such as the app theme and first-time launch status using SharedPreferences.
  
   ## screenshots
   
